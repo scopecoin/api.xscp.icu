@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XSCP Community
+title: Community
 permalink: /community/
 tags: community
 ---
